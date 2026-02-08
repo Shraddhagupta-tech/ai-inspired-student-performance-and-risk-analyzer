@@ -27,8 +27,8 @@ Generates actionable recommendations for improvement
 Final Reports & Interactive Dashboard
 Streamlit dashboard for interactive filtering
 
-Phase-Wise Workflow
-Phase	- Description	
+Phase-Wise Workflow:
+Phase	- Description
 1	- Data Understanding & Exploration
 2	- Data Cleaning & Validation
 3	- Feature Engineering & Derived Metrics
