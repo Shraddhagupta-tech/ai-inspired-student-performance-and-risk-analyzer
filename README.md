@@ -28,15 +28,15 @@ Final Reports & Interactive Dashboard
 Streamlit dashboard for interactive filtering
 
 Phase-Wise Workflow:
-Phase	- Description
-1	- Data Understanding & Exploration
-2	- Data Cleaning & Validation
-3	- Feature Engineering & Derived Metrics
-4	- Performance Index Calculation
-5	- Rule-Based Risk Classification
-6	- Trend Analysis
-7	- Insight & Recommendation Generation
-8	- Final Report Generation (CSV)
-9	- Visual Analytics & Interactive Web App
+Phase	- Description  
+1	- Data Understanding & Exploration  
+2	- Data Cleaning & Validation  
+3	- Feature Engineering & Derived Metrics  
+4	- Performance Index Calculation  
+5	- Rule-Based Risk Classification  
+6	- Trend Analysis  
+7	- Insight & Recommendation Generation  
+8	- Final Report Generation (CSV)  
+9	- Visual Analytics & Interactive Web App  
 
 This project empowers educators to proactively identify at-risk students, understand root causes, and implement targeted interventions. It demonstrates turning raw data into actionable insights using rule-based intelligence, analytics, visualization, and an interactive dashboard — a complete solution for educational decision-making.
